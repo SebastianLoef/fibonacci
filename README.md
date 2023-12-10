@@ -1,5 +1,5 @@
 # fibonacci
-Small test of packaging c code in Python. It was awesome!
+Small test of packaging c code in Python. Big Wow!
 ```
 Calculating fibonnaci number n=1000000 using Python
 Time taken: 5549.02458190918 ms
